@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/awwdopt-react/static/css/main.94cf11e7.chunk.css",
+    "main.js": "/awwdopt-react/static/js/main.f834b89c.chunk.js",
+    "main.js.map": "/awwdopt-react/static/js/main.f834b89c.chunk.js.map",
+    "runtime-main.js": "/awwdopt-react/static/js/runtime-main.5b10a32a.js",
+    "runtime-main.js.map": "/awwdopt-react/static/js/runtime-main.5b10a32a.js.map",
+    "static/css/2.53150396.chunk.css": "/awwdopt-react/static/css/2.53150396.chunk.css",
+    "static/js/2.16e9a600.chunk.js": "/awwdopt-react/static/js/2.16e9a600.chunk.js",
+    "static/js/2.16e9a600.chunk.js.map": "/awwdopt-react/static/js/2.16e9a600.chunk.js.map",
+    "static/js/3.18c1b6c0.chunk.js": "/awwdopt-react/static/js/3.18c1b6c0.chunk.js",
+    "static/js/3.18c1b6c0.chunk.js.map": "/awwdopt-react/static/js/3.18c1b6c0.chunk.js.map",
+    "index.html": "/awwdopt-react/index.html",
+    "static/css/2.53150396.chunk.css.map": "/awwdopt-react/static/css/2.53150396.chunk.css.map",
+    "static/css/main.94cf11e7.chunk.css.map": "/awwdopt-react/static/css/main.94cf11e7.chunk.css.map",
+    "static/js/2.16e9a600.chunk.js.LICENSE.txt": "/awwdopt-react/static/js/2.16e9a600.chunk.js.LICENSE.txt",
+    "static/media/golden-retriever.253a05fe.jpg": "/awwdopt-react/static/media/golden-retriever.253a05fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b10a32a.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.16e9a600.chunk.js",
+    "static/css/main.94cf11e7.chunk.css",
+    "static/js/main.f834b89c.chunk.js"
+  ]
+}
